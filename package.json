@@ -1,0 +1,39 @@
+{
+  "name": "nolrah-themes",
+  "displayName": "Nolrah Themes",
+  "description": "Three vivid Dracula-inspired dark themes for VS Code.",
+  "version": "0.2.0",
+  "publisher": "Harlon",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "dracula-inspired",
+    "vscode"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nolrah Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nolrah-obsidian-color-theme.json"
+      },
+      {
+        "label": "Nolrah Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nolrah-dusk-color-theme.json"
+      },
+      {
+        "label": "Nolrah Graphite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nolrah-graphite-color-theme.json"
+      }
+    ]
+  }
+}
