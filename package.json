@@ -5,6 +5,14 @@
   "version": "0.2.0",
   "publisher": "Harlon",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarlonGarcia/nolrah-themes.git"
+  },
+  "homepage": "https://github.com/HarlonGarcia/nolrah-themes#readme",
+  "bugs": {
+    "url": "https://github.com/HarlonGarcia/nolrah-themes/issues"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
